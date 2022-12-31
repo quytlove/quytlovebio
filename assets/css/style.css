@@ -41,7 +41,7 @@ body{
   #rest{
     flex: 1;
   }
-  img{
+  #img{
     width: 90px;
     height: 90px;
     border-radius: 100%;
